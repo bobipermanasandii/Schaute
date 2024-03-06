@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Schaute</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="profile">Go To Profile</string>
+
+    <string name="title">Judul</string>
+    <string name="overview">Overview</string>
+
+    <string name="name">Bobi Permana Sandi</string>
+    <string name="email">a152d4ky4476@bangkit.academy</string>
+
+    <string-array name="data_title">
+        <item>Red Right Hand</item>
+        <item>The Marvels</item>
+        <item>No Way Up</item>
+        <item>Dune: Part Two</item>
+        <item>Poor Things</item>
+        <item>Migration</item>
+        <item>Land of Bad</item>
+        <item>Dune</item>
+        <item>Anyone But You</item>
+        <item>Wonka</item>
+    </string-array>
+
+    <string-array name="data_overview">
+        <item>In action-thriller RED RIGHT HAND, Cash (Orlando Bloom) is trying to live an honest and quiet life taking care of his recently orphaned niece Savannah (Chapel Oaks) in the Appalachian town of Odim County. When the sadistic kingpin Big Cat (Andie MacDowell) who runs the town forces him back into her services, Cash learns he’s capable of anything — even killing — to protect the town and the only family he has left. As the journey gets harder, Cash is drawn into a nightmare that blurs the lines between good and evil. RED RIGHT HAND has the kinds of characters who leave an unforgettable imprint on you.</item>
+        <item>Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.</item>
+        <item>Ava (Sophie McIntosh), the daughter of the Governor of California, is hoping for a peaceful getaway with friends in the resort town of Cabo, Mexico — with her faithful minder Brandon (Colm Meaney) in tow. But when the plane crashes in the Pacific Ocean and comes to rest on the edge of an underwater ravine, Ava and a handful of survivors are trapped in the airlocked cabin. Against the odds, Ava must fend for herself, contend with bloodthirsty sharks, and find the courage to step up and lead the crash survivors to safety.</item>
+        <item>Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.</item>
+        <item>From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Willem Dafoe). Under Baxter\'s protection, Bella is eager to learn. Hungry for the worldliness she is lacking, Bella runs off with Duncan Wedderburn (Mark Ruffalo), a slick and debauched lawyer, on a whirlwind adventure across the continents. Free from the prejudices of her times, Bella grows steadfast in her purpose to stand for equality and liberation.</item>
+        <item>This holiday season, Illumination, creators of the blockbuster Minions, Despicable Me, Sing and The Secret Life of Pets comedies, invites you to take flight into the thrill of the unknown with a funny, feathered family vacation like no other in the action-packed new original comedy, Migration.</item>
+        <item>Starring Russell Crowe and Liam Hemsworth, a covert Special Forces operation in the South Philippines spirals into a brutal 48-hour battle for survival. When an elite extraction team is ambushed deep in enemy territory, rookie officer Kinney (Hemsworth) is left outnumbered but determined to leave no man behind. With an air strike closing in, Kinney\'s only hope hinges on the guidance of Air Force drone pilot Reaper (Crowe), navigating unknowable danger where every move could be their last.</item>
+        <item>Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet\'s exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity\'s greatest potential-only those who can conquer their fear will survive.</item>
+        <item>After an amazing first date, Bea and Ben’s fiery attraction turns ice cold — until they find themselves unexpectedly reunited at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.</item>
+        <item>Based on the extraordinary character at the center of Charlie and the Chocolate Factory, Roald Dahl’s most iconic children\'s book and one of the best-selling children\'s books of all time, "Wonka" tells the wondrous story of how the world\'s greatest inventor, magician and chocolate-maker became the beloved Willy Wonka we know today. Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.</item>
+    </string-array>
+
+    <string-array name="data_poster_path">
+        <item>https://image.tmdb.org/t/p/w500/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/ldfCF9RhR40mppkzmftxapaHeTo.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/h27WHO2czaY5twDmV3Wfx5IdqoE.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/yRt7MGBElkLQOYRvLTT1b3B1rcp.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg</item>
+    </string-array>
+</resources>
